@@ -1,0 +1,8 @@
+{
+    "env":{
+        "process.env.PORT":"3000",
+        "process.env.MONGO_ATLAS_PW":"groot",
+        "process.env.MONGO_ATLAS_DB":"myFirstDatabase",
+        "JWT_KEY":"secret"
+    }
+}
